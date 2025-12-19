@@ -29,7 +29,7 @@ const Navbar = () => {
       >
         {/* LOGO */}
         <img
-          src="/pintree.svg"
+          src="/pintree1.svg"
           alt="logo"
           className="w-[84px] sm:w-[100px] 2xl:w-[150px] lg:mb-2"
         />

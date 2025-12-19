@@ -3,8 +3,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="w-full flex flex-col xl:flex-row items-center justify-between  px-[24px] 2xl:px-[140px] 3xl:px-[240px] pb-[90px] pt-[57px]  bg-white border border-t border-[#AAAAAA]">
-      <img src="/pintree.svg" alt="" className="order-1 xl:order-none mt-10 xl:mt-0" />
+    <div className="w-full flex flex-col xl:flex-row items-center justify-between  px-[24px] 2xl:px-[140px] 3xl:px-[240px] pb-[90px] pt-[57px]  bg-white border border-t border-t-[#AAAAAA]">
+      <img src="/pintree1.svg" alt="" className="order-1 xl:order-none mt-10 xl:mt-0" />
 
       <div className="flex flex-col xl:flex-row justify-center items-center gap-[12px] xl:gap-[96px]">
         <Link href={"/terms-of-service"} className=" text-[20px] text-[#333333] font-aeonik-regular cursor-pointer">
